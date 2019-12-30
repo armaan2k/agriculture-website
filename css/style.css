@@ -1,0 +1,205 @@
+a, a:visited {
+    color: #002f5e;
+}
+
+header, footer, header a, footer a, header a:visited, footer a:visited {
+    color: #fff;
+}
+
+#Main_title, header nav a, header .media_links, .Search_box {
+    background-color: #002f5e;
+}
+
+
+footer {
+    background-color: #a91639;
+}
+
+blockquote, th {
+    background-color: #eee;
+}
+
+body {
+    font-family: Palatino, Book Antiqua, Georgia, serif;
+    line-height: 1.25;
+    font-size: 1rem;
+    color: #000;
+}
+
+h1, h2, h3, h4, h5, h6, nav, th {
+    font-family: Open Sans, Lucida Grande, Lucida Sans Unicode, Helvetica Neue, Arial, sans-serif;
+}
+
+#Main_title {
+    font-size: 2.0rem;
+}
+
+h1 {
+    font-size: 1.75rem;
+}
+
+h2  {
+    font-size: 1.625rem;
+}
+
+h3, .media_links a i  {
+    font-size: 1.5rem;
+}
+
+h4  {
+    font-size: 1.375rem;
+}
+
+h5  {
+    font-size: 1.25rem;
+}
+
+h6, nav ul li a{
+    font-size: 1.125rem;
+}
+
+header nav {
+    font-weight: bold;
+}
+
+.quote-source {
+    font-style: italic;
+}
+
+header {
+    text-shadow: 1px 1px rgba(0, 0, 0, 0.5);
+}
+
+header a {
+    text-decoration: none;
+}
+nav ul li input {
+  font-size: 1rem;
+  line-height: 1.25;
+  font-family: Open Sans, Lucida Grande, Lucida Sans Unicode, Helvetica Neue, Arial, sans-serif;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+blockquote {
+    padding: 16px;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.25);
+}
+
+.quote-source {
+    text-align: right;
+}
+
+table {
+	border-collapse: collapse;
+	margin-bottom: 32px;
+}
+
+th, td {
+	padding: 8px 16px;
+	border: 1px solid black;
+}
+
+tfoot th {
+    text-align: left;
+}
+
+/*  Header */
+header {
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+}
+header nav input {
+  border: none;
+}
+
+header ul, header li {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+header nav a, .Search_box {
+    display: block;
+    padding: 12px 32px;
+    border-bottom: 1px dotted rgba(255, 255, 255, 0.5);
+    margin: 0;
+}
+
+header nav input {
+  display: inline-block;
+  padding: 6px 8px
+  width: calc(100% - 16px);
+  border-radius: 3px;
+}
+
+article, main {
+    margin: 32px 32px 64px 32px;
+}
+
+header .media_links {
+    padding: 8px 32px;
+}
+
+blockquote {
+    margin-right: 16px;
+    margin-left: 16px;
+}
+
+.header-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: stretch;
+}
+
+.header-gallery figure {
+    margin: 0;
+    flex: 0 0;
+    padding: 8px;
+}
+
+.header-gallery figure img {
+    height: 100px;
+}
+
+
+#contact-info {
+    padding: 8px 0 0 0;
+    margin: 0;
+    list-style-type: none;
+}
+
+#copyright {
+    padding-top: 32px;
+}
+
+#address, #contact-info {
+    margin-left: 49.2%;
+}
+
+#unit-signature {
+    width: 100%;
+}
+
+#queensu_word_mark {
+    padding: 8px 0 0 32px;
+    width: 200px;
+}
+
+#queensu_logo {
+    display: none;
+}
+
+#Main_title {
+    padding: 16px 32px;
+    border-bottom: 1px dotted rgba(255, 255, 255, 0.5);
+    border-top: 1px dotted rgba(255, 255, 255, 0.5);
+}
+
+footer {
+    padding: 32px 32px 64px 32px;
+}
