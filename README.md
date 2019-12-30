@@ -8,6 +8,9 @@ All image and file links are done using absolute paths and the website operates 
 ![website homepage](/screenshots/search-desktop-home.jpg)
 
 
-## The mobile version:     |  ## An example of the search bar:
-:-------------------------:|:-------------------------:
-![website homepage](/screenshots/search-mobile-no-term.jpg)  |  ![website homepage](/screenshots/search-mobile-results.jpg)
+## The mobile version:  
+![website homepage](/screenshots/search-mobile-no-term.jpg)
+
+
+## An example of the search bar:
+![website homepage](/screenshots/search-mobile-results.jpg)
