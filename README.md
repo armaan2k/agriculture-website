@@ -5,7 +5,7 @@ There are 3 main pages. A home page, an about page and a programs page. Each con
 All image and file links are done using absolute paths and the website operates on a private Queen's University server. Refer to the screenshots below for examples of the website in use.
 
 ## The Desktop version:
-![website homepage](/screenshots/search-desktop-home.jpg)
+![website homepage](/screenshots/programs_page.jpg)
 
 
 ## The mobile version:  
